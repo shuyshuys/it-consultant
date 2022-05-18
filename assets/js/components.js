@@ -36,7 +36,7 @@ class Header extends HTMLElement {
             </div>
             <nav class="menu">
                 <ol>
-                    <li class="menu-item"><a href="#0">Beranda</a></li>
+                    <li class="menu-item"><a href="index.html">Beranda</a></li>
                     <li class="menu-item">
                     <a href="solusi.html">Solusi</a>
                     <ol class="sub-menu">
@@ -45,9 +45,9 @@ class Header extends HTMLElement {
                     </ol>
                     </li>
                     <li class="menu-item">
-                    <a href="#0">Konsultasi & Audit</a>
+                    <a href="konsultasi.html">Konsultasi & Audit</a>
                     <ol class="sub-menu">
-                        <li class="menu-item"><a href="#0">Desain Infrastruktur Teknologi Informasi</a></li>
+                        <li class="menu-item"><a href="desain-infrastruktur-ti.html">Desain Infrastruktur Teknologi Informasi</a></li>
                         <li class="menu-item"><a href="#0">Keamanan Informasi</a></li>
                         <li class="menu-item"><a href="#0">Tata Kelola Teknologi Informasi</a></li>
                         <li class="menu-item"><a href="#0">Master Plan</a></li>
