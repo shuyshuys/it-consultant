@@ -90,7 +90,7 @@ strong {
   font-family: "mouse-500", Arial, Helvetica, sans-serif; }
 
 body {
-  background-color: #f7f7ff !important;
+  background-color: white !important;
   font-family: "mouse-300", Arial, Helvetica, sans-serif;
   color: #6A6A6A; }
 
@@ -199,14 +199,14 @@ body {
   border: 2px solid #0d7a40 !important; }
 
 .form-control {
-  background-color: #F8F8F8;
+  background-color: white;
   margin-bottom: 20px; }
   .form-control:focus {
     background-color: #FFF;
     border-color: #CCC; }
 .menu {
   background: #add8e6;
-  height: 4rem;
+  height: 3rem;
 }
 .menu ol {
   list-style-type: none;
@@ -220,7 +220,7 @@ body {
 }
 .menu > ol > .menu-item {
   flex: 1;
-  padding: 0.75rem 0;
+  padding: 0.35rem 0;
 }
 .menu > ol > .menu-item:after {
   content: "";
@@ -276,6 +276,10 @@ body {
 .sub-menu .menu-item:nth-child(5){
   animation-duration: 0.6s;
   animation-delay: 0.4s;
+}
+.sub-menu .menu-item:nth-child(6){
+  animation-duration: 0.7s;
+  animation-delay: 0.5s;
 }
 
 .sub-menu .menu-item a {
@@ -813,6 +817,29 @@ header {
           margin-bottom: 0px; }
         .our-team .team-row .single-usr .det-o i {
           color: #FFF; }
+
+/* ===================================== Contact US Style  ================================== */
+.akun{
+  display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 14px;
+    padding: 1px 25px;
+    margin-top: 2px;
+    border-radius: 2px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.web{
+  background: crimson;
+    color: #fff;
+    font-size: 14px;
+    padding: 1px 18px;
+    margin-top: 2px;
+    border-radius: 2px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
 
 /*====================================== Blog Style ====================================*/
 .blog {
