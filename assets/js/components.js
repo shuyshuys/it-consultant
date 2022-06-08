@@ -9,7 +9,7 @@ class Header extends HTMLElement {
                 <div class="row">
                     <div class="col-lg-7 col-md-12 left-item">
                     <ul>
-                        <li><i class="fas fa-envelope-square"></i><a href="mailto:sinematoofficial@gmail.com"> sinematoofficial@gmail.com</a></li>
+                        <li><i class="fas fa-envelope-square"></i><a href="mailto:sinematoofficial@pm.me"> sinematoofficial@pm.me</a></li>
                         <li><i class="fas fa-phone-square"></i> 085816081685</li>
                     </ul>
                     </div>
@@ -32,38 +32,38 @@ class Header extends HTMLElement {
             </div>
             <nav class="menu">
                 <ol>
-                    <li class="menu-item"><a href="index.html">Beranda</a></li>
+                    <li class="menu-item"><a href="../../index.html">Beranda</a></li>
                     <li class="menu-item">
-                    <a href="solusi.html">Solusi</a>
+                    <a href="../artikel/solusi.html">Solusi</a>
                     <ol class="sub-menu">
-                        <li class="menu-item"><a href="pages/solusi/sistem-integrasi.html">Sistem Integrasi</a></li>
-                        <li class="menu-item"><a href="pages/solusi/data-center.html">Data Center</a></li>
-                        <li class="menu-item"><a href="pages/solusi/portofolio-proyek-sistem-integtasi.html">Portofolio Proyek Sistem Integrasi</a></li>
+                        <li class="menu-item"><a href="../../solusi/sistem-integrasi.html">Sistem Integrasi</a></li>
+                        <li class="menu-item"><a href="../../solusi/data-center.html">Data Center</a></li>
+                        <li class="menu-item"><a href="../../solusi/portofolio-proyek-sistem-integtasi.html">Portofolio Proyek Sistem Integrasi</a></li>
                     </ol>
                     </li>
                     <li class="menu-item">
-                    <a href="konsultasi.html">Konsultasi & Audit</a>
+                    <a href="../konsultasi/konsultasi.html">Konsultasi & Audit</a>
                     <ol class="sub-menu">
-                        <li class="menu-item"><a href="pages/konsultasi/desain-infrastruktur-ti.html">Desain Infrastruktur Teknologi Informasi</a></li>
-                        <li class="menu-item"><a href="pages/konsultasi/keamanan-informasi.html">Keamanan Informasi</a></li>
-                        <li class="menu-item"><a href="pages/konsultasi/tata-kelola-ti.html">Tata Kelola Teknologi Informasi</a></li>
-                        <li class="menu-item"><a href="pages/konsultasi/master-plan.html">Master Plan</a></li>
-                        <li class="menu-item"><a href="pages/konsultasi/pelatihan-ti.html">Pelatihan IT</a></li>
-                        <li class="menu-item"><a href="pages/konsultasi/portofolio.html">Portofolio Konsultasi dan Audit</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/desain-infrastruktur-ti.html">Desain Infrastruktur Teknologi Informasi</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/keamanan-informasi.html">Keamanan Informasi</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/tata-kelola-ti.html">Tata Kelola Teknologi Informasi</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/master-plan.html">Master Plan</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/pelatihan-ti.html">Pelatihan IT</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/portofolio.html">Portofolio Konsultasi dan Audit</a></li>
                     </ol>
                     </li>
                     <li class="menu-item">
                     <a href="artikel.html">Artikel</a>
                     <ol class="sub-menu">
-                        <li class="menu-item"><a href="pages/artikel/tata-kelola-ti.html">Tata Kelola TI</a></li>
-                        <li class="menu-item"><a href="pages/artikel/isms-smki.html">Keamanan Informasi</a></li>
-                        <li class="menu-item"><a href="pages/konsultasi/it-master-plan.html">IT Master Plan</a></li>
-                        <li class="menu-item"><a href="pages/artikel/sistem-integrasi.html">Sistem Integrasi</a></li>
-                        <li class="menu-item"><a href="pages/artikel/portofolio-proyek.html">Portofolio Proyek</a></li>
+                        <li class="menu-item"><a href="../../artikel/tata-kelola-ti.html">Tata Kelola TI</a></li>
+                        <li class="menu-item"><a href="../../artikel/isms-smki.html">Keamanan Informasi</a></li>
+                        <li class="menu-item"><a href="../../konsultasi/it-master-plan.html">IT Master Plan</a></li>
+                        <li class="menu-item"><a href="../../pages/artikel/sistem-integrasi.html">Sistem Integrasi</a></li>
+                        <li class="menu-item"><a href="../pages/artikel/portofolio-proyek.html">Portofolio Proyek</a></li>
                     </ol>
                     </li>
-                    <li class="menu-item"><a href="kontak.html">Kontak</a></li>
-                        <li class="menu-item"><a href="pages/teams.html">Our Teams</a>
+                    <li class="menu-item"><a href="../pages/kontak/kontak.html">Kontak</a></li>
+                        <li class="menu-item"><a href="../pages/kontak/teams.html">Our Teams</a>
                     </li>
                 </ol>
             </nav>
@@ -130,7 +130,7 @@ class Footer extends HTMLElement {
                   Jl. Rungkut Madya No.1, <br />
                   Kec. Gn. Anyar, Kota SBY <br />
                   Phone Biro Admik: 031 - 8706369 <br />
-                  Email <a href="mailto:sinematoofficial@gmail.com" class="akun">sinematoofficial@gmail.com</a><br />
+                  Email <a href="mailto:sinematoofficial@pm.me" class="akun">sinematoofficial@pm.me</a><br />
                   Web: <a href="https://it-consultant.muhdnurr.repl.co" class="web">it-consultant.muhdnurr.repl.co</a><br />
                 </address>
               </div>
